@@ -7,11 +7,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   I am passionate about helping organizations unleash the power of data to make better decisions. 
   <br><br>
   I am currently a strategy and analytics consultant at Mastercard with 2+ years of experience on a journey to deepen my data science skillset, learn new tools and techniques, and solve interesting problems, one dataset at a time.  
-  <br><br>
+  <br><br><br>
   <a href="https://www.linkedin.com/in/rachelwtong/">View My LinkedIn Profile</a> 
-  <br><br>
+  <br>
+  <a href="https://github.com/rachelwtong/data_science">View My GitHub</a> 
+  <br>
   <a href="pdf/Resume - Rachel Tong.pdf">Resume</a> 
-  <br><br> 
+  <br>
   <a href="mailto:rachelwtong@gmail.com">Contact Me!</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
