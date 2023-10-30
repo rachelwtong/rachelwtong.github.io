@@ -1,4 +1,4 @@
-## Background
+## Data Science Portfolio
 
 I started my self-guided data science journey in 2022 with a focus on developing the technical skills required to directly manipulate and analyze data. The data projects within this portfolio demonstrate my learning in the following topics: 
 
@@ -27,7 +27,6 @@ Building off the Spotify Library of Data Analysis, I conducted an exploratory an
 ---
 ### [Datacamp Competition: Predicting Hotel Cancellations](../html/Predicting Hotel Cancellations.html)
 <img src="images/Hotel Cancellations.png?raw=true"/>
-(/https://app.datacamp.com/learn/competitions/predict-hotel-cancellation)
 This project was completed as a part of a DataCamp Competition to support a hotel's desire to understand reasons for and predict hotel cancellations. During this project, I conducted exploratory data analysis of the dataset, used Information Value and Weight of Evidence to support my feature selection, visualized the impact of different features, and built a logistics regression model to predict cancellations. 
 
 ---
