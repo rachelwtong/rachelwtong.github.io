@@ -13,7 +13,7 @@ I started my self-guided data science journey in 2022 with a focus on developing
 
 ### [Spotify Library of Music Analysis](../html/Spotify Library of Music Analysis.html)
 <img src="images/Spotify Analysis.png?raw=true"/>
-This project was completed as the final assignment for NYU's Data Bootcamp course taken in 2021 and serves as my initial foray into the world of data science. In this project, a dataset of Spotify tracks containing data pulled using the Spotify Web API is used to analyze trends in music over time. The project contains three parts: <br>
+This project analyzes trends in music over time, based on a dataset of Spotify tracks pulled using the Spotify Web API. The project contains three parts: <br>
 1. Exploratory Data Analysis
 2. Song Recommender (Distance Matrix)
 3. Song Popularity Predictor (ML Models) 
@@ -25,7 +25,7 @@ This project was completed as the final assignment for NYU's Data Bootcamp cours
 Building upon my love for music and the Spotify Library of Music Analysis, I conducted an exploratory analysis of my own streaming data that all users can request from Spotify. In this project, I use my own streaming data from last year as well as the Spotify tracks dataset pulled using the Spotify Web API to add song audio characteristics to my analysis. As a next step, I hope to further refine this project by creating a 'Rachel's Preference' predictive model that can be combined with the Song Recommender from the previous Spotify project to tailor the recommender to my own preference. 
 
 ---
-### [Datacamp Competition: Predicting Hotel Cancellations](../html/Prediction Hotel Cancellations.html)
+### [Datacamp Competition: Predicting Hotel Cancellations](../html/Predicting Hotel Cancellations.html)
 <img src="images/Hotel Cancellations.png?raw=true"/>
 This project was completed as a part of a DataCamp Competition to support a hotel's desire to understand and predict hotel cancellations. During this project, I conducted exploratory data analysis of the dataset, used Information Value and Weight of Evidence to support my feature selection, visualized the impact of different features, and built a logistics regression model to predict cancellations. 
 
